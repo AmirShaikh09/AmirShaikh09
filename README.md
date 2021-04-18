@@ -30,8 +30,5 @@
 
 <br />
 
-
-### :chart_with_upwards_trend: The STATS 
-
 [website]: https://amirshaikh.netlify.app/
 [linkedin]: https://www.linkedin.com/in/amir-shaikh-925224189/
