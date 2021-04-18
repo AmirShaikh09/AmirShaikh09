@@ -2,20 +2,18 @@
 
 # Hello World I'm [Amir][website] 👋
 
-### I'm a Web Developer!!
+### I'm a Frontend Web Developer!!
 
-- 🔭 I am working on a tech events app [Kodevents][kodevents]
-- 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with others on Reactjs.
+- 🌱 I’m currently learning Javascript.
+- 👯 I’m looking to collaborate with others who can teach me Full Stack Web Development.
 - 🥅 2021 Goals: Learn and contribute more to Open Source projects.
-- 🤔 I’m looking forward to learn data visualization and flutter.
-- ⚡ Fun fact: I love eSports and reading books.
+- 🤔 I’m looking forward to learn AngularJS/ReactJS, NodeJS and anything else which can help me become a Full Stack Web Developer.
+- ⚡ Fun fact: I love Ubisoft/Unreal engine games and reading books.
 
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -45,11 +43,5 @@
 
 ### :chart_with_upwards_trend: The STATS 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karantondare&show_icons=true&count_private=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karantondare&theme=highcontrast)
-
-[website]: https://karantondare.vercel.app/
-[kodevents]: https://kodevents.vercel.app/
-[twitter]: https://twitter.com/karantondare
-[linkedin]: https://linkedin.com/in/karantondare
+[website]: https://amirshaikh.netlify.app/
+[linkedin]: https://www.linkedin.com/in/amir-shaikh-925224189/
