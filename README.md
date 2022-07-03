@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate with others who can teach me Full Stack Web Development.
-- 🥅 2021 Goals: Learn and contribute more to Open Source projects.
+- 🥅 2022 Goals: Learn and Grow to make a career in FullStacj Web Development.
 - 🤔 I’m looking forward to learn AngularJS/ReactJS, NodeJS and anything else which can help me become a Full Stack Web Developer.
 - ⚡ Fun fact: I love Ubisoft/Unreal engine games and reading books.
 
